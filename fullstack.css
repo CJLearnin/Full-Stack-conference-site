@@ -1,0 +1,14 @@
+.navbar{
+	background: #3c3939;
+}
+
+.navbar-brand{
+	font-size: 1em;
+	
+}
+.jumbotron{
+	background:rgb(0, 158, 229);
+	background-image: url('https://static.pexels.com/photos/374870/pexels-photo-374870.jpeg');
+	background-size: cover;
+	
+}
